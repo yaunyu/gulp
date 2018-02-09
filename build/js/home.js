@@ -1,0 +1,1 @@
+var aaaa=["1","2","3"];function dis(){(new Date).slice(4,5)}

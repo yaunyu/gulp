@@ -1,0 +1,9 @@
+.home {
+  background: #000;
+  font-size: 20px;
+}
+.home .inner {
+  font-size: 24px;
+  color: red;
+  text-align: left;
+}
